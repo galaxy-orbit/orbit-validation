@@ -1,6 +1,6 @@
 {
   "name": "@galaxy-stack/orbit-validation",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Validation module for Orbit framework",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
